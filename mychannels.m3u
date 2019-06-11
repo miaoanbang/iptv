@@ -1108,3 +1108,1181 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2
 
 #EXTINF:-1,人间正道是沧桑
 https://aldirect.hls.huya.com/huyalive/30765679-2685178192-11532752518572408832-3048959604-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Channel NewsAsia [EN][432p]
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5307980/16x9/947/533/dbbd7193329f507087f2602c392e5fa6/BD/okto.png" group-title="Singapore",OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1,SPORT: AR - beIN Sports 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197968.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197980.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197982.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197984.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198060.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197987.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197989.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 8 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197991.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198062.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 10 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197970.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 11 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197971.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 12 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197974.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 13 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197975.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports NBA HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197999.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198000.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198002.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198004.m3u8
+#EXTINF:-1,SPORT: AR - BoutQ 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208682.m3u8
+#EXTINF:-1,SPORT: AR - BoutQ 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208683.m3u8
+#EXTINF:-1,SPORT: ARG - TyC Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208019.m3u8
+#EXTINF:-1,SPORT: BIH - Arena Sport 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210527.m3u8
+#EXTINF:-1,SPORT: BIH - Arena Sport 5 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210528.m3u8
+#EXTINF:-1,SPORT: BR - BAND SPORT HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206110.m3u8
+#EXTINF:-1,SPORT: BR - beIN SPORTS
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206111.m3u8
+#EXTINF:-1,SPORT: BR - ESPN Brasil FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206113.m3u8
+#EXTINF:-1,SPORT: BR - SPORTV 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198475.m3u8
+#EXTINF:-1,SPORT: BR - SPORTV 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198476.m3u8
+#EXTINF:-1,SPORT: BR - SPORTV 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198474.m3u8
+#EXTINF:-1,SPORT: CA - TSN 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198647.m3u8
+#EXTINF:-1,SPORT: CA - TSN 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198643.m3u8
+#EXTINF:-1,SPORT: CA - TSN 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198644.m3u8
+#EXTINF:-1,SPORT: CA - TSN 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198645.m3u8
+#EXTINF:-1,SPORT: CA - TSN 5 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198646.m3u8
+#EXTINF:-1,SPORT: CHE - SRF SPORT zwei HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198434.m3u8
+#EXTINF:-1,SPORT: DE - Auto Motor Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207892.m3u8
+#EXTINF:-1,SPORT: DE - BAYERN FC TV
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207825.m3u8
+#EXTINF:-1,SPORT: DE - DAZN BAR 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207834.m3u8
+#EXTINF:-1,SPORT: DE - DAZN BAR 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207835.m3u8
+#EXTINF:-1,SPORT: DE - EUROSPORT 2 Xtra HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198072.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207902.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198582.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207904.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207905.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207906.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207907.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207908.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 8 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207909.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207910.m3u8
+#EXTINF:-1,SPORT: DE - Sky Sport 10 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207903.m3u8
+#EXTINF:-1,SPORT: DE - Telekom - DEL Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207836.m3u8
+#EXTINF:-1,SPORT: ES - beIN Sports Ñ HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/199369.m3u8
+#EXTINF:-1,SPORT: ES - LaLiga 123 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207700.m3u8
+#EXTINF:-1,SPORT: ES - LaLiga 123 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207696.m3u8
+#EXTINF:-1,SPORT: ES - LaLiga FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207698.m3u8
+#EXTINF:-1,SPORT: ES - LaLiga HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207695.m3u8
+#EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/139512.m3u8
+#EXTINF:-1,SPORT: GR - OTE SPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198443.m3u8
+#EXTINF:-1,SPORT: GR - OTE SPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198579.m3u8
+#EXTINF:-1,SPORT: GR - OTE SPORT 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210343.m3u8
+#EXTINF:-1,SPORT: GR - OTE SPORT 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198445.m3u8
+#EXTINF:-1,SPORT: GR - OTE SPORT 6 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210344.m3u8
+#EXTINF:-1,SPORT: HR - Arena Sport 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210525.m3u8
+#EXTINF:-1,SPORT: HR - Arena Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210526.m3u8
+#EXTINF:-1,SPORT: HR - PLANET SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207743.m3u8
+#EXTINF:-1,SPORT: IN - Star Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198575.m3u8
+#EXTINF:-1,SPORT: IN - STAR SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198576.m3u8
+#EXTINF:-1,SPORT: IT - DAZN 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207449.m3u8
+#EXTINF:-1,SPORT: IT - DAZN 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207452.m3u8
+#EXTINF:-1,SPORT: IT - DAZN 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207453.m3u8
+#EXTINF:-1,SPORT: IT - DAZN 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207454.m3u8
+#EXTINF:-1,SPORT: IT - DAZN 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207455.m3u8
+#EXTINF:-1,SPORT: IT - FOX SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207819.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198119.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198118.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/109804.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/121815.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 6
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198117.m3u8
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198116.m3u8
+#EXTINF:-1,SPORT: NL - Ziggo Sport EXTRA HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207746.m3u8
+#EXTINF:-1,SPORT: NL - Ziggo Sport Select FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207744.m3u8
+#EXTINF:-1,SPORT: NL - Ziggo Sport Voetbal HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207745.m3u8
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65064.m3u8
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/140850.m3u8
+#EXTINF:-1,SPORT: PT - SPORT TV + FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198179.m3u8
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207738.m3u8
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207739.m3u8
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207740.m3u8
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207742.m3u8
+#EXTINF:-1,VIP: UK - Sky Sports Action HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210886.m3u8
+#EXTINF:-1,SPORT: TR - beIN Sports 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198571.m3u8
+#EXTINF:-1,SPORT: TR - beIN Sports 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198572.m3u8
+#EXTINF:-1,SPORT: TR - beIN Sports 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198574.m3u8
+#EXTINF:-1,SPORT: TR - beIN Sports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198573.m3u8
+#EXTINF:-1,SPORT: TR - tivibu spor 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198477.m3u8
+#EXTINF:-1,SPORT: TR - tivibu spor 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198478.m3u8
+#EXTINF:-1,SPORT: TR - tivibu spor 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198479.m3u8
+#EXTINF:-1,SPORT: UK - BOX NATION FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197922.m3u8
+#EXTINF:-1,SPORT: UK - BT Sport ESPN FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93488.m3u8
+#EXTINF:-1,SPORT: UK - EIR SPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198581.m3u8
+#EXTINF:-1,SPORT: UK - EIR SPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198185.m3u8
+#EXTINF:-1,SPORT: UK - ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/137211.m3u8
+#EXTINF:-1,SPORT: UK - EURONEWS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/205166.m3u8
+#EXTINF:-1,SPORT: UK - EUROSPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198103.m3u8
+#EXTINF:-1,SPORT: UK - EUROSPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198104.m3u8
+#EXTINF:-1,SPORT: UK - Fightbox HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/205222.m3u8
+#EXTINF:-1,SPORT: UK - Liverpool FC HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206095.m3u8
+#EXTINF:-1,SPORT: UK - Premiere Sports
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206105.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Arena HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197949.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197952.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports F1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197954.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Football HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197956.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Golf HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197958.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Main Event HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197960.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Mix HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197962.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197964.m3u8
+#EXTINF:-1,SPORT: UK - Sky Sports Premier League HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197966.m3u8
+#EXTINF:-1,SPORT: US - beIN Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198539.m3u8
+#EXTINF:-1,SPORT: US - ELEVEN SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198544.m3u8
+#EXTINF:-1,SPORT: US - FOX SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198122.m3u8
+#EXTINF:-1,SPORT: US - FOX SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198123.m3u8
+#EXTINF:-1,SPORT: US - FOX SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198124.m3u8
+#EXTINF:-1,SPORT: US - MLB NETWORK HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198549.m3u8
+#EXTINF:-1,SPORT: US - NFL Network FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198121.m3u8
+#EXTINF:-1,SPORT: US - NHL NETWORK HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198552.m3u8
+#EXTINF:-1,SPORT: US - Willow HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198114.m3u8
+#EXTINF:-1,FR: BFM SPORT HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/163476.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65682.m3u8
+#EXTINF:-1,FR: ELEVEN SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127942.m3u8
+#EXTINF:-1,FR: ELEVEN SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/139511.m3u8
+#EXTINF:-1,FR: ELEVEN SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/152552.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73680.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74650.m3u8
+#EXTINF:-1,FR: EXTREME SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/86411.m3u8
+#EXTINF:-1,FR: FOOT 24 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62310.m3u8
+#EXTINF:-1,FR: FOOT 24/24 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127025.m3u8
+#EXTINF:-1,FR: INFO SPORT FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/98133.m3u8
+#EXTINF:-1,FR: My sports 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/132745.m3u8
+#EXTINF:-1,FR: My Sports 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/132746.m3u8
+#EXTINF:-1,FR: beIN Sports 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62335.m3u8
+#EXTINF:-1,FR: beIN Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62336.m3u8
+#EXTINF:-1,FR: beIN Sports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63602.m3u8
+#EXTINF:-1,FR: beIN Sports max 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/160280.m3u8
+#EXTINF:-1,FR: beIN Sports Max 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/160281.m3u8
+#EXTINF:-1,FR: beIN Sports Max 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/160282.m3u8
+#EXTINF:-1,FR: beIN Sports Max 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74988.m3u8
+#EXTINF:-1,FR: beIN Sports MAX 8 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/160284.m3u8
+#EXTINF:-1,FR: beIN Sports MAX 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/160285.m3u8
+#EXTINF:-1,FR: beIN Sports Max 10 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/164422.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116454.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91918.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91919.m3u8
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/120878.m3u8
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65662.m3u8
+#EXTINF:-1,FR: RMC SPORT NEWS FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/149141.m3u8
+#EXTINF:-1,RO: Arena Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210031.m3u8
+#EXTINF:-1,RO: Arena Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210032.m3u8
+#EXTINF:-1,RO: Arena Sport 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210033.m3u8
+#EXTINF:-1,RO: ARENA SPORT 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210917.m3u8
+#EXTINF:-1,RO: Digi Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65872.m3u8
+#EXTINF:-1,RO: Digi Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65871.m3u8
+#EXTINF:-1,RO: DIGI SPORT 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/110982.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62979.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210918.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62978.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89362.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113005.m3u8
+#EXTINF:-1,RU: EUROSPORT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209672.m3u8
+#EXTINF:-1,RU: EUROSPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90526.m3u8
+#EXTINF:-1,RU: EUROSPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90525.m3u8
+#EXTINF:-1,RU: EUROSPORT HD RUsia
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/192953.m3u8
+#EXTINF:-1,RU: Extreme Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90527.m3u8
+#EXTINF:-1,RU: Football
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/110679.m3u8
+#EXTINF:-1,RU: MATCH SPORTS
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90451.m3u8
+#EXTINF:-1,RU: Match! Arena HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90450.m3u8
+#EXTINF:-1,RU: Match! Futbol 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90532.m3u8
+#EXTINF:-1,RU: Match! FUTBOL 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/90533.m3u8
+#EXTINF:-1,RU: Match! Futbol 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/67934.m3u8
+#EXTINF:-1,RU: Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113714.m3u8
+#EXTINF:-1,RU: Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113715.m3u8
+#EXTINF:-1,RU: SPORT FIGHT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/140270.m3u8
+#EXTINF:-1,SLO: SPORT KLUB 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91315.m3u8
+#EXTINF:-1,SLO: SPORT KLUB 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91313.m3u8
+#EXTINF:-1,SLO: SPORT KLUB 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91311.m3u8
+#EXTINF:-1,SLO: SPORT KLUB 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/117149.m3u8
+#EXTINF:-1,SLO: SPORT KLUB GOLF
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/146035.m3u8
+#EXTINF:-1,SLO: SPORT TV 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91319.m3u8
+#EXTINF:-1,SLO: SPORT TV 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91318.m3u8
+#EXTINF:-1,SLO: SPORT TV 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65337.m3u8
+#EXTINF:-1,SLO: SPORTSKA TV
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/138276.m3u8
+#EXTINF:-1,ES: beIN Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210554.m3u8
+#EXTINF:-1,ES: beIN Sports LaLiga HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64208.m3u8
+#EXTINF:-1,ES: beIN Sports Ñ HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116125.m3u8
+#EXTINF:-1,ES: SKY NET SPORTS 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94098.m3u8
+#EXTINF:-1,ES: SKYNET SPORTS 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/142067.m3u8
+#EXTINF:-1,SE: C More Fotboll FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74268.m3u8
+#EXTINF:-1,SE: C More Hits FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65905.m3u8
+#EXTINF:-1,SE: C More Hockey FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65906.m3u8
+#EXTINF:-1,SE: C More Live 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89029.m3u8
+#EXTINF:-1,SE: C More Live 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/75100.m3u8
+#EXTINF:-1,SE: C More Live 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/75101.m3u8
+#EXTINF:-1,SE: C More Live 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/75102.m3u8
+#EXTINF:-1,SE: C More Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/120206.m3u8
+#EXTINF:-1,SE: C More Sport FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65907.m3u8
+#EXTINF:-1,SE: Extreme Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107489.m3u8
+#EXTINF:-1,SE: Fight Network FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/132680.m3u8
+#EXTINF:-1,PL: Canal Sport
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/192868.m3u8
+#EXTINF:-1,PL: Canal Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/192869.m3u8
+#EXTINF:-1,PL: CANAL+ SPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/102841.m3u8
+#EXTINF:-1,PL: CANAL+ SPORT FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74120.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/143427.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/151195.m3u8
+#EXTINF:-1,PL: Eleven Sports 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210475.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197914.m3u8
+#EXTINF:-1,PL: EUROSPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74131.m3u8
+#EXTINF:-1,PL: EUROSPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74132.m3u8
+#EXTINF:-1,PL: EUROSPORT FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78475.m3u8
+#EXTINF:-1,PL: Extreme Sports FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/69533.m3u8
+#EXTINF:-1,PL: Fightbox FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78485.m3u8
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74149.m3u8
+#EXTINF:-1,PL: Polsat Sport FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74148.m3u8
+#EXTINF:-1,PL: POLSAT Sport Fight FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78076.m3u8
+#EXTINF:-1,PL: Polsat Sport News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74150.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/124300.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/133687.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/124721.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127741.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/139862.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127743.m3u8
+#EXTINF:-1,PT: Fight Box
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/101057.m3u8
+#EXTINF:-1,PT: Fight Network HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/169032.m3u8
+#EXTINF:-1,PT: SPORT TV + FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209250.m3u8
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65574.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65573.m3u8
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65571.m3u8
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/114850.m3u8
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/114847.m3u8
+#EXTINF:-1,PT: SPORT TV FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210314.m3u8
+#EXTINF:-1,PT: SPORT TV NBA
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198083.m3u8
+#EXTINF:-1,PT: SPORTING FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65568.m3u8
+#EXTINF:-1,DE: Europort 2 Xtra FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/86118.m3u8
+#EXTINF:-1,DE: EUROSPORT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73546.m3u8
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/86119.m3u8
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73450.m3u8
+#EXTINF:-1,DE: ORF Sport+ HD (AU)
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64770.m3u8
+#EXTINF:-1,DE: Sky Sport FHD (AT)
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210068.m3u8
+#EXTINF:-1,DE: Sky Sport HD (AU)
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/156525.m3u8
+#EXTINF:-1,DE: Sky Sport News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/100326.m3u8
+#EXTINF:-1,DE: Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131252.m3u8
+#EXTINF:-1,DE: Sport 1 US HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93211.m3u8
+#EXTINF:-1,DE: SPORT 1+ HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64771.m3u8
+#EXTINF:-1,DE: Sport Digital HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62066.m3u8
+#EXTINF:-1,DE: Telekom - DEL Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93361.m3u8
+#EXTINF:-1,DE: Telekom - DEL Sport 5
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208405.m3u8
+#EXTINF:-1,DE: Telekom - DEL Sport 6
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208406.m3u8
+#EXTINF:-1,DE: Telekom - DEL Sport 7
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208407.m3u8
+#EXTINF:-1,DE: Telekom DEL Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208874.m3u8
+#EXTINF:-1,DE: Telekom DEL Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208875.m3u8
+#EXTINF:-1,DE: Telekom DEL Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208876.m3u8
+#EXTINF:-1,DE: Telekom Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209310.m3u8
+#EXTINF:-1,FR: KOMBAT SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/98129.m3u8
+#EXTINF:-1,FR: KTO HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91899.m3u8
+#EXTINF:-1,FR: L EQUIPE 21
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208219.m3u8
+#EXTINF:-1,FR: L EQUIPE HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/139099.m3u8
+#EXTINF:-1,US: AFN Sports 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/99610.m3u8
+#EXTINF:-1,US: beIN Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/95148.m3u8
+#EXTINF:-1,US: ELEVEN SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/77121.m3u8
+#EXTINF:-1,US: FIGHT SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74913.m3u8
+#EXTINF:-1,US: FIGHT SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/155466.m3u8
+#EXTINF:-1,US: FOX SPORTS (ASIA)
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/92455.m3u8
+#EXTINF:-1,US: FOX SPORTS (Mid West) HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78327.m3u8
+#EXTINF:-1,US: FOX SPORTS (South West) Plus
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/126088.m3u8
+#EXTINF:-1,US: FOX SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/111001.m3u8
+#EXTINF:-1,US: FOX SPORTS 5
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/181589.m3u8
+#EXTINF:-1,US: UFC Fight Pass HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/76764.m3u8
+#EXTINF:-1,US: UFC NETWORK HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/102015.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/92580.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206334.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93484.m3u8
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107282.m3u8
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197895.m3u8
+#EXTINF:-1,UK: BT Sport Extra 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/145466.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/175406.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/99947.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/96511.m3u8
+#EXTINF:-1,UK: BT Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209470.m3u8
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209485.m3u8
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209484.m3u8
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/124390.m3u8
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/137212.m3u8
+#EXTINF:-1,UK: ESPN
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/99082.m3u8
+#EXTINF:-1,UK: EURONEWS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74609.m3u8
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65014.m3u8
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93240.m3u8
+#EXTINF:-1,UK: Fightbox HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/99955.m3u8
+#EXTINF:-1,UK: Setanta +Sports
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74761.m3u8
+#EXTINF:-1,UK: SETANTA SPORTS PREMIER
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/145476.m3u8
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198820.m3u8
+#EXTINF:-1,UK: Sky Sports Action HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/92609.m3u8
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74495.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131501.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/137224.m3u8
+#EXTINF:-1,UK: Sky Sports Football HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/88302.m3u8
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74770.m3u8
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/109959.m3u8
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/98196.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74481.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/137225.m3u8
+#EXTINF:-1,CA: TSN 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74882.m3u8
+#EXTINF:-1,CA: TSN 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65876.m3u8
+#EXTINF:-1,CA: TSN 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/76947.m3u8
+#EXTINF:-1,CA: TSN 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74885.m3u8
+#EXTINF:-1,CA: TSN 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74886.m3u8
+#EXTINF:-1,AL: K Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94058.m3u8
+#EXTINF:-1,AL: K Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94059.m3u8
+#EXTINF:-1,AL: K Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94060.m3u8
+#EXTINF:-1,AL: K Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94061.m3u8
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209905.m3u8
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209906.m3u8
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209907.m3u8
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209908.m3u8
+#EXTINF:-1,AL: SPORT KLUB 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/119272.m3u8
+#EXTINF:-1,AL: Sport Kosova 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/134004.m3u8
+#EXTINF:-1,AL: Sport News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/140183.m3u8
+#EXTINF:-1,AL: SUPER SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/176254.m3u8
+#EXTINF:-1,AL: Super Sport 1 News
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63347.m3u8
+#EXTINF:-1,AL: Super Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63352.m3u8
+#EXTINF:-1,AL: Super Sport 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63351.m3u8
+#EXTINF:-1,AL: Super Sport 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63350.m3u8
+#EXTINF:-1,AL: Super Sport 5 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63349.m3u8
+#EXTINF:-1,AL: Super Sport 6 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94049.m3u8
+#EXTINF:-1,AL: Super Sport 7 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209904.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209895.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/196124.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209897.m3u8
+#EXTINF:-1,AL: Super Sport News FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209898.m3u8
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63346.m3u8
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63345.m3u8
+#EXTINF:-1,AL: Tring Sport 3 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78436.m3u8
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78437.m3u8
+#EXTINF:-1,AL: Tring Sport News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78438.m3u8
+#EXTINF:-1,AR: Abu Dhabi Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/147292.m3u8
+#EXTINF:-1,AR: Abu Dhabi Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/147482.m3u8
+#EXTINF:-1,AR: AD SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/134770.m3u8
+#EXTINF:-1,AR: AD SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/134771.m3u8
+#EXTINF:-1,AR: AD SPORTS 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113215.m3u8
+#EXTINF:-1,AR: AD SPORTS 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/135985.m3u8
+#EXTINF:-1,AR: Al Kass Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/175827.m3u8
+#EXTINF:-1,AR: Al Kass Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/175828.m3u8
+#EXTINF:-1,AR: Al Kass Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/105379.m3u8
+#EXTINF:-1,AR: Al Kass Sport 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/193039.m3u8
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62751.m3u8
+#EXTINF:-1,AR: beIN Sports 12 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/145599.m3u8
+#EXTINF:-1,AR: beIN Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/77965.m3u8
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62259.m3u8
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93261.m3u8
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198058.m3u8
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/77957.m3u8
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93264.m3u8
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93262.m3u8
+#EXTINF:-1,AR: beIN Sports 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198061.m3u8
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62744.m3u8
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74643.m3u8
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93269.m3u8
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/97054.m3u8
+#EXTINF:-1,AR: beIN Sports Max 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65672.m3u8
+#EXTINF:-1,AR: beIN Sports Max 5
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65671.m3u8
+#EXTINF:-1,AR: beIN Sports Max 6
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65670.m3u8
+#EXTINF:-1,AR: beIN Sports Max 7
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65669.m3u8
+#EXTINF:-1,AR: beIN Sports Max 8
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65668.m3u8
+#EXTINF:-1,AR: beIN Sports Max 9
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65667.m3u8
+#EXTINF:-1,AR: beIN Sports NBA HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/136392.m3u8
+#EXTINF:-1,AR: beIN Sports News HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62754.m3u8
+#EXTINF:-1,AR: Dubai Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130965.m3u8
+#EXTINF:-1,AR: Dubai Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/110126.m3u8
+#EXTINF:-1,AR: Dubai Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63180.m3u8
+#EXTINF:-1,AR: Dubai Sport 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/147291.m3u8
+#EXTINF:-1,AR: Dubai Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73335.m3u8
+#EXTINF:-1,AR: KSA Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/135339.m3u8
+#EXTINF:-1,AR: KSA Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131080.m3u8
+#EXTINF:-1,AR: KSA SPORTS 2 + HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131082.m3u8
+#EXTINF:-1,AR: Kuwait Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/95761.m3u8
+#EXTINF:-1,AR: Kuwait Sport Live HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/146188.m3u8
+#EXTINF:-1,AR: Kuwait Sport Plus
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/95762.m3u8
+#EXTINF:-1,AR: OSN AD SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74671.m3u8
+#EXTINF:-1,AR: OSN AD SPORTS 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74672.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89303.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89304.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89305.m3u8
+#EXTINF:-1,AR: OSN Sport 1 Action
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/143179.m3u8
+#EXTINF:-1,AR: OSN SPORT 2 ACTION
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89336.m3u8
+#EXTINF:-1,AR: OSN Sports 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/143181.m3u8
+#EXTINF:-1,AR: OSN Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/88765.m3u8
+#EXTINF:-1,AR: OSN Sports 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/86785.m3u8
+#EXTINF:-1,AR: OSN Sports Cricket HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94108.m3u8
+#EXTINF:-1,BE: Diema Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210411.m3u8
+#EXTINF:-1,BE: Diema Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210412.m3u8
+#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127943.m3u8
+#EXTINF:-1,BE: ELEVEN SPORTS 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127944.m3u8
+#EXTINF:-1,BE: EUROSPORT 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210417.m3u8
+#EXTINF:-1,BE: EUROSPORT 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127941.m3u8
+#EXTINF:-1,BE: PLAY SPORTS 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208746.m3u8
+#EXTINF:-1,BE: PLAY SPORTS 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208750.m3u8
+#EXTINF:-1,BE: VOO SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/86858.m3u8
+#EXTINF:-1,BE: VOO SPORT World 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/106558.m3u8
+#EXTINF:-1,BE: VOO SPORT World 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94092.m3u8
+#EXTINF:-1,BE: Voo Sport World 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/196981.m3u8
+#EXTINF:-1,BG: AURO MOTOR SPORT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209053.m3u8
+#EXTINF:-1,BG: Auto Motor Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78763.m3u8
+#EXTINF:-1,BG: Diema Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65559.m3u8
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65558.m3u8
+#EXTINF:-1,BG: Diema Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/78784.m3u8
+#EXTINF:-1,BG: SPORT+ FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/122123.m3u8
+#EXTINF:-1,BG: Sportal HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/134715.m3u8
+#EXTINF:-1,CZ: Nova Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/106575.m3u8
+#EXTINF:-1,CZ: Nova Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63063.m3u8
+#EXTINF:-1,CZ: O2 Footbal HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206443.m3u8
+#EXTINF:-1,CZ: SPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63069.m3u8
+#EXTINF:-1,CZ: Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/95909.m3u8
+#EXTINF:-1,CZ: Sport 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63070.m3u8
+#EXTINF:-1,FI: C More Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91489.m3u8
+#EXTINF:-1,FI: MTV Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113859.m3u8
+#EXTINF:-1,FI: MTV Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/113860.m3u8
+#EXTINF:-1,HU: Digi Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/177632.m3u8
+#EXTINF:-1,HU: Digi Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/124867.m3u8
+#EXTINF:-1,HU: Digi Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208999.m3u8
+#EXTINF:-1,HU: EUROSPORT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/146897.m3u8
+#EXTINF:-1,HU: EUROSPORT 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/115301.m3u8
+#EXTINF:-1,HU: EUROSPORT 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/120264.m3u8
+#EXTINF:-1,HU: Extreme Sports
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/120262.m3u8
+#EXTINF:-1,HU: Sport 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65874.m3u8
+#EXTINF:-1,HU: Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65873.m3u8
+#EXTINF:-1,IN: Star Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64248.m3u8
+#EXTINF:-1,IN: Star Sport1 Hindi
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207515.m3u8
+#EXTINF:-1,IN: STAR SPORTS 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64247.m3u8
+#EXTINF:-1,IN: STAR SPORTS 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/156947.m3u8
+#EXTINF:-1,IN: STAR SPORTS FIRST
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207765.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197917.m3u8
+#EXTINF:-1,IN: STAR SPORTS TAMIL
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210167.m3u8
+#EXTINF:-1,IL: Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116024.m3u8
+#EXTINF:-1,IL: Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/148260.m3u8
+#EXTINF:-1,IL: Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116025.m3u8
+#EXTINF:-1,IL: Sport 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116026.m3u8
+#EXTINF:-1,IL: Sport 5 GOLD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/148421.m3u8
+#EXTINF:-1,IL: Sport 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/155362.m3u8
+#EXTINF:-1,IL: Sport 5 Live HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73899.m3u8
+#EXTINF:-1,IL: Sport 5 Plus
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116027.m3u8
+#EXTINF:-1,IL: Sport 5 Stars
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/148266.m3u8
+#EXTINF:-1,IL: YES SPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/73906.m3u8
+#EXTINF:-1,IL: Yes Sport 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/148261.m3u8
+#EXTINF:-1,IL: yes Sport 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/148262.m3u8
+#EXTINF:-1,IL: YES SPORT 5 GOLD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206408.m3u8
+#EXTINF:-1,IL: Yes Sport 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/177175.m3u8
+#EXTINF:-1,IL: YES SPORT 5 PLUS LIVE HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/206409.m3u8
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62019.m3u8
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62018.m3u8
+#EXTINF:-1,IT: PrimaFila WWE
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/159595.m3u8
+#EXTINF:-1,IT: Rai Sport + HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/199393.m3u8
+#EXTINF:-1,IT: Rai Sport 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/156411.m3u8
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63842.m3u8
+#EXTINF:-1,IT: Rai Sport HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/114719.m3u8
+#EXTINF:-1,IT: Rai Sport Plus HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/62045.m3u8
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/87636.m3u8
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/159584.m3u8
+#EXTINF:-1,IT: Sky Sport 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130888.m3u8
+#EXTINF:-1,IT: Sky Sport 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130889.m3u8
+#EXTINF:-1,IT: Sky Sport 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130891.m3u8
+#EXTINF:-1,IT: Sky Sport 10 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130892.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/127134.m3u8
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/175342.m3u8
+#EXTINF:-1,IT: Sky Sport F1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/63855.m3u8
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93168.m3u8
+#EXTINF:-1,IT: Sky Sport Football HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/128219.m3u8
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91943.m3u8
+#EXTINF:-1,IT: Sky Sport NBA HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/128226.m3u8
+#EXTINF:-1,IT: Sky Sport Plus
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/175344.m3u8
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130887.m3u8
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/128228.m3u8
+#EXTINF:-1,LA: Directv Sport
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68642.m3u8
+#EXTINF:-1,LA: Directv Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68872.m3u8
+#EXTINF:-1,LA: Directv Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68644.m3u8
+#EXTINF:-1,LA: FOX SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/77782.m3u8
+#EXTINF:-1,LA: FOX SPORTS 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/111397.m3u8
+#EXTINF:-1,LA: FOX SPORTS 2 SUR AMERICA
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/210583.m3u8
+#EXTINF:-1,LA: FOX SPORTS 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/77783.m3u8
+#EXTINF:-1,LA: FOX SPORTS HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/108452.m3u8
+#EXTINF:-1,LA: FOX SPORTS Premium HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68376.m3u8
+#EXTINF:-1,LA: KOMBAT SPORT
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68476.m3u8
+#EXTINF:-1,LA: SPORT TV CONO SUR 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68449.m3u8
+#EXTINF:-1,LA: SPORT TV CONO SUR 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68448.m3u8
+#EXTINF:-1,LA: SPORT TV CONO SUR 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68447.m3u8
+#EXTINF:-1,LA: SPORT TV CONO SUR 4
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68446.m3u8
+#EXTINF:-1,LA: SPORT TV CONO SUR 5
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68445.m3u8
+#EXTINF:-1,LA: WIN SPORT HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209782.m3u8
+#EXTINF:-1,LA: WIN SPORT VIVO HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/68368.m3u8
+#EXTINF:-1,ARG: Direct TV Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/116141.m3u8
+#EXTINF:-1,ARG: DIRECT TV Sports HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/118861.m3u8
+#EXTINF:-1,ARG: DIRECT TV SPORTS PLUS
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209793.m3u8
+#EXTINF:-1,ARG: DirecTV Sports 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/146396.m3u8
+#EXTINF:-1,CO: FOX SERIES
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107021.m3u8
+#EXTINF:-1,CO: FOX SPORTS
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107023.m3u8
+#EXTINF:-1,CO: FOX SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107022.m3u8
+#EXTINF:-1,CO: FOX SPORTS 3
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/107024.m3u8
+#EXTINF:-1,NL: Edge Sport TV
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130799.m3u8
+#EXTINF:-1,NL: Esports TV
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/209722.m3u8
+#EXTINF:-1,NL: EUROSPORT 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/74964.m3u8
+#EXTINF:-1,NL: EUROSPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/158140.m3u8
+#EXTINF:-1,NL: Extreme Sports Channel
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64236.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 EREDIVISIE HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/197760.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65203.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65202.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 INTERNATIONAL
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93527.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 EREDIVISIE
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93526.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64221.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65200.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 INTERNATIONAL
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93525.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 EREDIVISIE HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93524.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65199.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/133170.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 INTERNATIONAL
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/106249.m3u8
+#EXTINF:-1,NL: FOX SPORTS BARAN 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208795.m3u8
+#EXTINF:-1,NL: FOX SPORTS EDL 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/96865.m3u8
+#EXTINF:-1,NL: FOX SPORTS EDL 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/96866.m3u8
+#EXTINF:-1,NL: Golf HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64232.m3u8
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93105.m3u8
+#EXTINF:-1,NL: Sport1 Golf
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93102.m3u8
+#EXTINF:-1,NL: Sport1 Racing
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93103.m3u8
+#EXTINF:-1,NL: Sport1 Select
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/93104.m3u8
+#EXTINF:-1,NL: Ziggo Extra 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208015.m3u8
+#EXTINF:-1,NL: Ziggo Select
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/111045.m3u8
+#EXTINF:-1,NL: Ziggo Sport
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208794.m3u8
+#EXTINF:-1,NL: Ziggo Sport DOCU HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/106528.m3u8
+#EXTINF:-1,NL: Ziggo Sport EXTRA HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/133177.m3u8
+#EXTINF:-1,NL: Ziggo Sport GOLF HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/111044.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65189.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/126486.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65193.m3u8
+#EXTINF:-1,NL: Ziggo TV
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/135742.m3u8
+#EXTINF:-1,NO: TV2 Sport Premium
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/102670.m3u8
+#EXTINF:-1,NO: TV2 Sport Premium 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/89175.m3u8
+#EXTINF:-1,NO: TV2 Sport Premium 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208946.m3u8
+#EXTINF:-1,CHE: MySports 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/103788.m3u8
+#EXTINF:-1,CHE: MySports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/103789.m3u8
+#EXTINF:-1,CHE: MySports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/103790.m3u8
+#EXTINF:-1,CHE: MySports 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/103791.m3u8
+#EXTINF:-1,CHE: MySports 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/117136.m3u8
+#EXTINF:-1,CHE: MySports 7 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/117138.m3u8
+#EXTINF:-1,CHE: MySports 8 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/119473.m3u8
+#EXTINF:-1,CHE: MySports 9 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/117139.m3u8
+#EXTINF:-1,CHE: MySports FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/103787.m3u8
+#EXTINF:-1,CHE: TeleClub Sky Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/130651.m3u8
+#EXTINF:-1,CHE: Teleclub Sport 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64945.m3u8
+#EXTINF:-1,CHE: TeleClub Sport 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64944.m3u8
+#EXTINF:-1,CHE: Teleclub Sport 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/94088.m3u8
+#EXTINF:-1,TR: A SPORT HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/102473.m3u8
+#EXTINF:-1,TR: beIN Sports 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/100888.m3u8
+#EXTINF:-1,TR: beIN Sports 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/142755.m3u8
+#EXTINF:-1,TR: beIN Sports 4 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/84775.m3u8
+#EXTINF:-1,TR: beIN Sports 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131256.m3u8
+#EXTINF:-1,TR: beIN Sports 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/131257.m3u8
+#EXTINF:-1,TR: beIN Sports 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/129320.m3u8
+#EXTINF:-1,TR: beIN Sports FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198753.m3u8
+#EXTINF:-1,TR: beIN Sports HABER FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64393.m3u8
+#EXTINF:-1,TR: beIN Sports Max 1 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/92533.m3u8
+#EXTINF:-1,TR: beIN Sports Max 2 FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/92534.m3u8
+#EXTINF:-1,TR: beIN Sports HABER HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198754.m3u8
+#EXTINF:-1,TR: beIN Sports IZ 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208934.m3u8
+#EXTINF:-1,TR: beIN Sports MAX 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/208935.m3u8
+#EXTINF:-1,TR: beIN Sports MAX 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/198755.m3u8
+#EXTINF:-1,TR: BELGESEL
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/91838.m3u8
+#EXTINF:-1,TR: D Smart Sport 1
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/129506.m3u8
+#EXTINF:-1,TR: D Smart Sport 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/157412.m3u8
+#EXTINF:-1,TR: EUROSPORT 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/79182.m3u8
+#EXTINF:-1,TR: EUROSPORT 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/79183.m3u8
+#EXTINF:-1,TR: S-Sports FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/64377.m3u8
+#EXTINF:-1,TR: Smart Spor 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/88891.m3u8
+#EXTINF:-1,TR: Smart Spor 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/99423.m3u8
+#EXTINF:-1,TR: SMART SPOR FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/106098.m3u8
+#EXTINF:-1,TR: SMART SPORT 2
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/122937.m3u8
+#EXTINF:-1,TR: SMART SPORT HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/76318.m3u8
